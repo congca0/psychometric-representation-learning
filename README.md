@@ -18,3 +18,4 @@ Results show that contrastive learning improves teacher-child retrieval but pres
 Participant-level data are not included due to data access and privacy restrictions.
 
  
+DOI: 10.5281/zenodo.23578029
